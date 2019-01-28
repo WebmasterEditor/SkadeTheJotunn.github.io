@@ -4,6 +4,10 @@ h1 {
     font-family: 'IM Fell French Canon SC';font-size: 22px;
 }
 
-.heading {
+h1 {
+    font-family: "Arial Black"
+}
+
+h2 {
     font-family: "Arial Black"
 }
