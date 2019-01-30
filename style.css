@@ -14,9 +14,8 @@ h3 {
 }
 
 #banner {
-  background-image: url("IcelandViking5.jpeg");
-  background-size: cover;
-  background-position: bottom center;
+  background-image: url("IcelandViking2.jpeg");
+  align: center;
   height: 50px;
   width: 100%;
 }
