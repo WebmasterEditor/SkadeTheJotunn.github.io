@@ -9,5 +9,6 @@ h3 {
 }
 
 .fit {
-  max-width: 99%;
+  max-width: 100%;
+  max-heigth: 50%;
 }
