@@ -33,7 +33,7 @@ h3 {
 
 img {
   opacity: 0.5;
-  filter: alpha(opacity=50); /* For IE8 and earlier */
+  filter: alpha(opacity=50);
 }
 
 .navigate {
@@ -58,3 +58,8 @@ img {
     transition: 0.2s;
 }
     
+.anchor {
+  position: absolute;
+  left: 0px;
+  top: -40px;
+}
