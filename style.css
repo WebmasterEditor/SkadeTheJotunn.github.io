@@ -35,3 +35,10 @@ img {
   opacity: 0.5;
   filter: alpha(opacity=50); /* For IE8 and earlier */
 }
+
+.navigate {
+    background-color: #f1f1f1;
+    padding: 50px 10px;
+    position: fixed;
+    width: 100%; 
+}
