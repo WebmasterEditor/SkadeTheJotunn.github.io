@@ -52,8 +52,7 @@ img {
     background: white;
     font-size: 18px;
     text-align: center;
-    position: fixed;
-    top: 0; 
+    position: fixed; 
     bottom: 0;
     width: 100%; 
     transition: 0.2s;
