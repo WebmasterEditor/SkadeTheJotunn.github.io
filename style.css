@@ -44,8 +44,6 @@ img {
     padding: "40px";
 }
 
-
-#nav {
-  display: inline;
-  <font>padding-right: 30px;</font>
+.below {
+    padding-bottom: 25px;
 }
