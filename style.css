@@ -52,14 +52,9 @@ img {
     background: white;
     font-size: 18px;
     text-align: center;
-    position: fixed; 
-    top: 0;
     width: 100%; 
     transition: 0.2s;
-}
-    
-.anchor {
-  position: absolute;
-  left: 0px;
-  top: -40px;
+    position: absolute;
+    left: 0px;
+    top: -40px;
 }
