@@ -4,14 +4,23 @@
   <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <body style="font-family:verdana";>
-  
+<script>
+window.onscroll = function() {scrollFunction()};
 
-  <nav><center>
+function scrollFunction() {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    document.getElementById("header").style.fontSize = "30px";
+  } else {
+    document.getElementById("header").style.fontSize = "90px";
+  }
+}
+  </script>
+  <nav><div id="header"><center>
     <a href="./index.html">Home</a>
     <a href="./aboutme.html">About Me</a>
     <a href="./aesirvanir.html">Aesir and Vanir</a>
     <a href="./ninerealms.html">The Nine Realms</a>
-    </center></nav>
+    </center></div></nav>
   <center><img width="99%" height="99%" src="IcelandViking4.jpg" alt="Iceland Image"></center>
   <div class="centered"><h1>   Norse Mythology</h1><nav>
     
