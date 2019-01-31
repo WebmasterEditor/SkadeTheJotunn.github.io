@@ -5,16 +5,17 @@
 </head>
 <body style="font-family:verdana";>
 <script>
-  window.onscroll = function() {scrollFunction()};
+window.onscroll = function() {scrollFunction()};
 
 function scrollFunction() {
-  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+  if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
     document.getElementById("header").style.fontSize = "16px";
   } else {
     document.getElementById("header").style.fontSize = "18px";
   }
 }
-  </script>
+</script>
+
   <nav class="below" id="header"><center> 
     <a style="text-decoration:none" href="./index.html">HOME</a>
     &nbsp;
