@@ -43,3 +43,7 @@ img {
     font-size: "20px";
     padding: "40px";
 }
+
+.space { 
+  word-spacing: 30px;
+}
