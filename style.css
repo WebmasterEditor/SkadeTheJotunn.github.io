@@ -37,9 +37,9 @@ img {
 }
 
 .navigate {
-    background-color: #f1f1f1;
+    background-color: #66cc99;
     position: fixed;
     width: 100%; 
     font-size: "20px";
-    padding: 100px;
+    padding: "40px";
 }
