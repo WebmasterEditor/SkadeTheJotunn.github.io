@@ -54,5 +54,7 @@ img {
     text-align: center;
     width: 100%; 
     transition: 0.2s;
-    position: fixed;
+    position: absolute;
+    left: 0px;
+    top: -40px;
 }
