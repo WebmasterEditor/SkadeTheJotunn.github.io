@@ -47,7 +47,7 @@ img {
 
 
 #header {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     padding-top: 10px;
     background: white;
     font-size: 18px;
@@ -56,8 +56,4 @@ img {
     top: 0;
     width: 100%; 
     transition: 0.2s;
-}
-
-.spacebelow {
-    padding-bottom: 25px;
 }
