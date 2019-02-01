@@ -25,7 +25,6 @@ h3 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  top: 40px;
 }
 
 .navlist {
@@ -34,7 +33,7 @@ h3 {
 
 img {
   opacity: 0.5;
-  filter: alpha(opacity=50);
+  filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
 .navigate {
@@ -53,8 +52,8 @@ img {
     background: white;
     font-size: 18px;
     text-align: center;
+    position: fixed; 
+    top: 0;
     width: 100%; 
     transition: 0.2s;
-    position: absolute;
-    top: 0;
 }
