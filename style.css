@@ -61,5 +61,6 @@ img {
 #title {
     border-style: solid;
     border-width: 5px;
-    border-color: "white";
+    border-color: #ffffff;
+    margin: 10px;
 }
