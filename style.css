@@ -44,7 +44,9 @@ img {
     padding: "40px";
 }
 
-
+img {
+    z-index: -1;
+}
 
 #header {
     padding-bottom: 20px;
