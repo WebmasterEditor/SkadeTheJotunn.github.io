@@ -13,6 +13,10 @@ h3 {
     padding: 10px;
 }
 
+.noshade {
+    padding: 10px;
+}
+
 .fit {
   max-width: 100%;
   max-heigth: 20%;
