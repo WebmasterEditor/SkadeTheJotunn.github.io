@@ -8,6 +8,10 @@ h3 {
     font-family: "Arial Black";
 }
 
+.info-one {
+    background-color: #d9d9db; 
+}
+
 .fit {
   max-width: 100%;
   max-heigth: 20%;
