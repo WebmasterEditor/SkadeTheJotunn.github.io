@@ -20,6 +20,10 @@ h3 {
   padding: 0 10px;
 }
 
+.potrait {
+    border-radius: 50%;
+}
+
 /* Remove extra left and right margins, due to padding in columns */
 .row {margin: 0 -5px;}
 
