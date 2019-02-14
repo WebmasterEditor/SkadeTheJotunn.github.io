@@ -45,7 +45,9 @@ body {
 }
 
 .flex-container {
-    text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
