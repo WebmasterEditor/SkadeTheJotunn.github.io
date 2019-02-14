@@ -8,7 +8,6 @@ body {
 
 /* Float four columns side by side */
 .column {
-  float: left;
   width: 23%;
   padding: 0 5px;
   align: center;
@@ -16,6 +15,8 @@ body {
 
 #homecard {
   width: 25%
+  padding: 0 5px;
+  align: center;
 }
 
 .columnhome {
