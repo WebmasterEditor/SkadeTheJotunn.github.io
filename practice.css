@@ -14,6 +14,10 @@ body {
   align: center;
 }
 
+#homecard {
+  width: 25%
+}
+
 .columnhome {
   float: left;
   width: 25%;
