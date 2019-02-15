@@ -8,7 +8,7 @@ body {
 
 /* Float four columns side by side */
 .column {
-  width: 23%;
+  width: 25%;
   padding: 0 5px;
   align: center;
 }
