@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Javascript Book!</title>
+
+<style>
+
+</style>
+</head>
+
+
+<body>
+    <script>
+        alert("hello, world!");
+    </script
+</body>
+
+</html>
