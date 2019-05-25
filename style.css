@@ -64,6 +64,12 @@ body {
   transform: translate(-50%, -50%);
 }
 
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
 .bottom-right {
   position: absolute;
   bottom: 8px;
