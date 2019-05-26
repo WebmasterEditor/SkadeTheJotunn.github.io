@@ -129,3 +129,8 @@ img {
 .btn:hover {background: #eee;}
 
 .success {color: black;}
+
+.btn:learn {
+    width: 100%
+}
+
