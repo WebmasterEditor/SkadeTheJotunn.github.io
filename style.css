@@ -116,3 +116,11 @@ img {
 .sup {
     padding-bottom: 17px;
 }
+
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  cursor: pointer;
+  display: inline-block;
+}
