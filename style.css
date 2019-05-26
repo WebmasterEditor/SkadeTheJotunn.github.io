@@ -133,7 +133,7 @@ img {
 .btn:learn {
     width: 100%
     text-align: center;
-    padding-top: "50%"
-    background-color: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-
