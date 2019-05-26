@@ -54,14 +54,14 @@ body {
 }
 
 .button1 {
-  background-color: #white; 
-  color: #black; 
-  border: 2px solid #6f8589;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
 }
 
 .button1:hover {
-  background-color: #6f8589;
-  color: #white;
+  background-color: #008CBA;
+  color: white;
 }
 
 .fit {
