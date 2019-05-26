@@ -123,6 +123,7 @@ img {
   padding: 14px 28px;
   cursor: pointer;
   display: inline-block;
+  font-size: "20px";
 }
 
 .btn:hover {background: #eee;}
